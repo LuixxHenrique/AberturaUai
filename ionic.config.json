@@ -1,0 +1,7 @@
+{
+  "name": "AberturaUai",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
